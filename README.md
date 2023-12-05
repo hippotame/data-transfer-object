@@ -16,7 +16,7 @@
 You can install the package via composer:
 
 ```bash
-composer require spatie/data-transfer-object
+composer require hippotame/data-transfer-object
 ```
 
 * **Note**: v3 of this package only supports `php:^8.0`. If you're looking for the older version, check out [v2](https://github.com/spatie/data-transfer-object/tree/v2).
